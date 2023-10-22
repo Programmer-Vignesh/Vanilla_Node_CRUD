@@ -1,0 +1,28 @@
+{
+  "name": "vanilla_node_crud",
+  "version": "1.0.0",
+  "description": "Implementing CRUD operation using Express-FrameWork . Mean while using Middlewares .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Programmer-Vignesh/Vanilla_Node_CRUD.git"
+  },
+  "keywords": [
+    "Express",
+    "+",
+    "Middleware"
+  ],
+  "author": "Vignesh Murthy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Programmer-Vignesh/Vanilla_Node_CRUD/issues"
+  },
+  "homepage": "https://github.com/Programmer-Vignesh/Vanilla_Node_CRUD#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
